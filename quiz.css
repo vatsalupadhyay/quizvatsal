@@ -1,0 +1,25 @@
+body {
+      background-color:lightsteelblue;
+      font-weight: bolder;
+      font-size: larger;
+}
+
+section {
+      background-color:rgb(255, 255, 255);
+      border: 10px;
+      text-shadow: 200px;
+}
+
+.container {
+      border: 10px;
+      margin: auto;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+}
+
+.quiz-container {
+      display: flex;
+      justify-content: center;
+}
